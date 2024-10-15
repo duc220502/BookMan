@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\bin\Debug\net8.0\BookMan.ConsoleAppp.exe
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\bin\Debug\net8.0\BookMan.ConsoleAppp.deps.json
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\bin\Debug\net8.0\BookMan.ConsoleAppp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\bin\Debug\net8.0\BookMan.ConsoleAppp.dll
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\bin\Debug\net8.0\BookMan.ConsoleAppp.pdb
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\BookMan.ConsoleAppp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\BookMan.ConsoleAppp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\BookMan.ConsoleAppp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\BookMan.ConsoleAppp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\BookMan.ConsoleAppp.dll
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\refint\BookMan.ConsoleAppp.dll
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\BookMan.ConsoleAppp.pdb
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\BookMan.ConsoleAppp.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\ref\BookMan.ConsoleAppp.dll
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\BookMan.ConsoleAppp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\BookMan\BookMan.ConsoleAppp\obj\Debug\net8.0\BookMan..DC88C852.Up2Date
